@@ -9,11 +9,15 @@ For periodic signals we use fourier series and for Non Periodic signals we use f
 Harmonics frequency = cycles/sec or 1/Time period 
 ### Conditions 
 a) Signal should have finite number of maximum and minimum over the range of time period.
+
 b) Signal should have finite number of discontinuities over the range of time period.
+
 c) Signal should be absolutely integrable over the range of time period .
 ## Types of fourier series 
 a) Trigonometric fourier series
+
 b) Comples exponent fourier series
+
 c) Polar /Harmonic Fourier series
 ### Trigonometric fourier series
 x(t)= avg value of x(t) + cosine terms + sine terms 

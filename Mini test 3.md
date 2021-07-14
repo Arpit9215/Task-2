@@ -26,7 +26,8 @@ x(t)= avg value of x(t) + cosine terms + sine terms
 
 ### Comples exponent fourier series
 
-![task 2 2](https://user-images.githubusercontent.com/85411965/125662926-33670ea0-b71e-4bca-a295-0753a49fac23.jpg)
+![task 2 3](https://user-images.githubusercontent.com/85411965/125663227-2446489d-144d-4a46-8a45-5321d4315b6b.jpg)
+
 
 
 

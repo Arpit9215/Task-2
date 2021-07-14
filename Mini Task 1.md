@@ -24,3 +24,7 @@ b) In our project we can also find the distance of the sound source , hence indi
 a) It is a LED having three different colours red ,blue and green .
 
 b) In our project , We can use this 3 different colours for showing the presence of the sound also helps us to give a extra information of diatance determined by utrasonic sensor.
+## Prototyping 
+Once We have a plan and components ready we start with assembling the components and desiging a PCB for the circuit .Also try to seacrch for alternatives , for exmaple , ultrasonic sensor is quite big , so we can try to find or made a new sensor that is more compactable than ultrasoinc sensor . Also we have to make the prototype with least expenditure as much as possible 
+## Manufacturing 
+Once We are done with prototype we can go to next step of testing it in a extreme conditions to check its strength , durability . Also we can take the reviews of general public (target audience - auditorily impaired persons) and we can alter some changes or any improvement needed in the design according to tests and public review . After all this we can finaaly come up with our final product - SMART SPECTACLES .

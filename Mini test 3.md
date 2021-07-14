@@ -32,6 +32,16 @@ x(t)= avg value of x(t) + cosine terms + sine terms
 
 ![task 2 3](https://user-images.githubusercontent.com/85411965/125663991-7d33413f-26b8-462b-94b2-a64681a5eb25.jpg)
 
+### x(t)-Cn Pairs
+
+| x(t) | Cn |
+|---|---|
+| Real | Conjugate symmetrical |
+| Conjugate symmetrical | Real |
+| Imaginary | Conjugate Anti-symmetrical |
+| Conjugate Anti-symmetrical | Imaginary |
+
+
 
 
 

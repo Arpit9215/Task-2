@@ -19,12 +19,12 @@ a) Trigonometric fourier series
 b) Comples exponent fourier series
 
 c) Polar /Harmonic Fourier series
-### Trigonometric fourier series
+## Trigonometric fourier series
 x(t)= avg value of x(t) + cosine terms + sine terms 
 
 ![task 2  1](https://user-images.githubusercontent.com/85411965/125662262-7d566f8d-6dd8-4065-b121-7a003d2105ad.jpg)
 
-### Comples exponent fourier series
+## Comples exponent fourier series
 
 ![task 2 3](https://user-images.githubusercontent.com/85411965/125663227-2446489d-144d-4a46-8a45-5321d4315b6b.jpg)
 

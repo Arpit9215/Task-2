@@ -5,7 +5,22 @@ The problem statement is to make a smart spectacles for the auditorily impaired 
 1) We have to make a smart spectacles that have many small microphones embedded in the frame of the spectacles to determine the direction of the sound.
 2) Then we can use sensors like ultrasonic sensor and determine the distance of the source of sound by emitting a singnal by sensor in the direction of the sound.
 3) Then we can code the microcontroller like Arduino or ESP32 according to the data of distance.
-4) We can use LED RGB for the purpose to display different lights for differnet distance values, for example , red for close ditance , orange for moderate distance and green for far distance . 
+4) We can use LED RGB for the purpose to display different lights for differnet distance values, for example , red for close ditance , blue for moderate distance and green for far distance . 
 5) This will not only tell the direction from where the sound is coming but also help the auditorily impaired persons with the extra data of distance of the source.
 ## Components
+### 1) MEMS Microphone
+a) We install a number of microphones in the frame of the spectacles .
 
+b) We can code these microphones and can determine which microphone records the maximum intensity ,hence that is the direction of the sound.
+### 2) Arduino
+a) It is a microcontroller to govern the operation in the system , act as a commander of the circuit .
+
+b) It activates the ultrasonic sensor in the direction of sound and later glows the LED according to direction and distance of sound 
+### 3) Ultrasonic sensor 
+a) It is a sensor used to determine the distance of the object .
+
+b) In our project we can also find the distance of the sound source , hence indicate this message by glowing red (near) , blue (moderate) , green ( far) lights hence giving the auditorily impaired persons a extra information of distance of the sound source 
+### 4) LED RGB 
+a) It is a LED having three different colours red ,blue and green .
+
+b) In our project , We can use this 3 different colours for showing the presence of the sound also helps us to give a extra information of diatance determined by utrasonic sensor.

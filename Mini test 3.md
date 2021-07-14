@@ -40,6 +40,10 @@ x(t)= avg value of x(t) + cosine terms + sine terms
 | Conjugate symmetrical | Real |
 | Imaginary | Conjugate Anti-symmetrical |
 | Conjugate Anti-symmetrical | Imaginary |
+| Real and Even | Real and Even |
+| Imaginary and Even | Imaginary and Even |
+| Real and Odd | Imaginary and Odd |
+| Imaginary and Odd | Real and Odd |
 
 
 

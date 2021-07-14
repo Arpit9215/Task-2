@@ -24,9 +24,10 @@ x(t)= avg value of x(t) + cosine terms + sine terms
 
 ![task 2  1](https://user-images.githubusercontent.com/85411965/125662262-7d566f8d-6dd8-4065-b121-7a003d2105ad.jpg)
 
-### Polar /Harmonic Fourier series
+### Comples exponent fourier series
 
-![task 2](https://user-images.githubusercontent.com/85411965/125662342-537dbf9a-2c73-4dde-9d8c-84c4ecc4df59.jpg)
+![task 2 2](https://user-images.githubusercontent.com/85411965/125662926-33670ea0-b71e-4bca-a295-0753a49fac23.jpg)
+
 
 
  

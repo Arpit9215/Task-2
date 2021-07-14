@@ -45,6 +45,15 @@ x(t)= avg value of x(t) + cosine terms + sine terms
 | Real and Odd | Imaginary and Odd |
 | Imaginary and Odd | Real and Odd |
 
+### Symmetries in Fourier Series 
+
+- Even symmetry
+- Odd symmetry
+- Half Wave symmetry
+- Odd and Half Wave symmetry 
+- Even and Half Wave symmetry 
+- Hidden symmetry
+
 
 
 

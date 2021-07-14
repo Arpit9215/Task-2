@@ -28,6 +28,11 @@ x(t)= avg value of x(t) + cosine terms + sine terms
 
 ![task 2 3](https://user-images.githubusercontent.com/85411965/125663227-2446489d-144d-4a46-8a45-5321d4315b6b.jpg)
 
+### Relation between Fourier coefficients
+
+![task 2 3](https://user-images.githubusercontent.com/85411965/125663991-7d33413f-26b8-462b-94b2-a64681a5eb25.jpg)
+
+
 
 
 

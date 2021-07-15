@@ -54,6 +54,12 @@ x(t)= avg value of x(t) + cosine terms + sine terms
 - Even and Half Wave symmetry 
 - Hidden symmetry
 
+### Properties of Fourier Series 
+
+There are 10 types of properties for fourier series .
+![project 2 final](https://user-images.githubusercontent.com/85411965/125820223-efe9393b-f9cf-42ab-8855-64c20f9d759d.jpg)
+
+
 
 
 

@@ -14,5 +14,11 @@ Also , there are different kind of hearing conditions ( partial loss / complete 
 - They are of 2 types 
     - Analog 
     - Digital
-- 
+    - 
+### Analog Hearing Aid 
+
+-In this type of Hearing Aid we have to design the Aid according to the environment ( silent or noisy )
+-
+
+
 

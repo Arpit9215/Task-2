@@ -14,10 +14,24 @@ Also , there are different kind of hearing conditions ( partial loss / complete 
 - They are of 2 types 
     - Analog 
     - Digital
-    - 
+     
 ### Analog Hearing Aid 
 
-1)In this type of Hearing Aid we have to design the Aid according to the environment ( silent or noisy )
+a) In this type of Hearing Aid we have to design the Aid according to the environment ( silent or noisy ).
+
+b) As for the silent one we have to program the Hearing Aid to Amplify the sound much more compared to noisy environment due to their difference of pitch of the sound .
+
+c) Where as for the noisy environment we have to Amplify the sound but not much to avoid the extreme noise .
+
+### Digital Hearing Aid
+
+a) In this type of Hearing Aid the sound signal is converted into a digital form (binary form ).
+
+b) As the data is stored in digital form , it does not need to make different kind of hearing aid for different environments , as we can program the amplifier according to the information collected from the sound and henec receieve the sound at an optimal sound .
+
+Hence , Digital Hearing Aid are more prefered over Analog Hearing Aid due to their smart nature to amplify the sound according to the environment .
+
+
 
 
 

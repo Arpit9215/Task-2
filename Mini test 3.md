@@ -57,7 +57,9 @@ x(t)= avg value of x(t) + cosine terms + sine terms
 ### Properties of Fourier Series 
 
 There are 10 types of properties for fourier series .
-![project 2 final](https://user-images.githubusercontent.com/85411965/125820223-efe9393b-f9cf-42ab-8855-64c20f9d759d.jpg)
+
+![project 2 final 1](https://user-images.githubusercontent.com/85411965/125820485-599100be-dc59-40ed-8ee0-c18db5096246.jpg)
+
 
 
 
